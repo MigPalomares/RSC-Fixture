@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+
+.cont-groups {
+    width: 100%;
+
+
+}
+.container-title{
+    width: 100%;
+    align-items: center;
+}
+
+.cont-property {
+    margin: 20px;
+    padding: auto;
+}
+
+.bg-card-ar:hover {
+    background-image: url("../images/flags/argentina.svg");
+    width: 100%;
+}
+
+.bg-card-cr:hover {
+    background-image: url("../images/flags/croacia.svg");
+}
+
+.bg-card-fr:hover {
+    background-image: url("../images/flags/francia.svg");
+}
+
+.bg-card-ma:hover {
+    background-image: url("../images/flags/marruecos.svg");
+}

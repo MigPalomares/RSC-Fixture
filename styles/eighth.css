@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+
+.container-group-e img{
+    width: 250px;
+    border: solid 6px gray;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.cont-vs {
+    display: flex;
+    align-items: center;
+    font-size:85px;
+    margin: 0 30px 0 30px;
+}
+
+.container-group-e {
+    
+    font-size: larger;
+    font-weight: 500;
+    padding: 20px;
+    margin: 10px;
+    width: 100%;
+    border-radius: 20px 20px 20px 20px;
+   
+}
+
+.cont-hover-pb:hover {
+    background-image: url("../images/flags/paises bajos.svg");
+    width: 100%;
+}
+
+.cont-hover-ar:hover {
+    background-image: url("../images/flags/argentina.svg");
+    
+}
+.cont-hover-fr:hover {
+    background-image: url("../images/flags/francia.svg");
+    
+}
+.cont-hover-in:hover {
+    background-image: url("../images/flags/inglaterra.svg");
+    
+}
+.cont-hover-cr:hover {
+    background-image: url("../images/flags/croacia.svg");
+    
+}
+.cont-hover-br:hover {
+    background-image: url("../images/flags/brasil.svg");
+    
+}
+.cont-hover-ma:hover {
+    background-image: url("../images/flags/marruecos.svg");
+    
+}
+.cont-hover-po:hover {
+    background-image: url("../images/flags/portugal.svg");
+    
+}
