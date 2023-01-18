@@ -42,7 +42,7 @@ ul {
     margin-left: 10px;
 }
 
-.align-list li:hover { background-color: blue;}
+.align-list li:hover { background-color:rgb(68, 138, 199);}
 
 .container-section {
     
@@ -54,6 +54,14 @@ ul {
     border: solid chocolate 5px;
     
 }
+.container-title{
+    font-size: 70px;
+    margin: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center
+
+}
 
 .container-card:hover div{
     background-color: aqua;
@@ -64,8 +72,15 @@ ul {
 
 }
 
+.cont-section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
 
-
+.cont-table {
+    width: 70%;
+}
 
 .width-carrusel-img {
     width: 45% !important;

@@ -1,0 +1,11 @@
+.cont-cards {
+    width: 100%;
+}
+
+.nav-hov a:hover {
+    background-color: rgb(190, 82, 141);
+    border-radius: 50px;
+  -webkit-transform: scale(2.5);
+    transform: scale(1.1)
+
+}
