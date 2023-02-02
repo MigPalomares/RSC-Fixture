@@ -32,9 +32,10 @@ ul {
 }
 
 .container-group {
-   
+    color: aliceblue;
     border: solid 10px chocolate;
     margin: 40px 60px 40px 60px;
+    background-color: rgb(167, 89, 119);
     
 }
 
@@ -85,6 +86,24 @@ ul {
 .width-carrusel-img {
     width: 45% !important;
     margin: auto !important;
+}
+
+.cont-main {
+    background-image:url(../images/logo/fondo\ qatar2.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*.cont-bg {
+    background-image: url(../images/logo/fondo\ 1.jpg);
+    background-size: cover;
+}*/
+
+.cont-bg {
+    background-image: url(../images/logo/fondo\ 1.jpg);
+    background-repeat: no repeat;
+    background-position: center center;
+    background-size: cover;
 }
 
 /*.carousel-align  {
